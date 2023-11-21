@@ -34,3 +34,5 @@ Jeśli w trakcie rozrywki potrzebna jest asysta Mistrza Gry, można bezpośredni
 Gracze mają dostępne specjalne narzędzia które pozwalają sprawdzić różne statystyki postaci, jak również wykonać dodatkowe akcje, np.: animacje czy rzuty kością.
 
 Wybierz Specjalne Zdolności z Rozety, aby się do nich dostać i aktywuj narzędzie (1 lub 2) na swojej postaci.
+
+![player tool](../static/img/wiki/player-tools-1.png)
