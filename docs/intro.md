@@ -15,7 +15,7 @@ Przypominasz sobie wzmianki też o tym jak daleko na północ jest wrogie Neverw
 
 Wkraczasz na brukowane ulice miasta. Przyszedł czas by rozpocząć twoją przygodę w Neverwinter.
 
-# A jak to działa?
+## A jak to działa?
 
 Każdy zaczyna grę w dzielnicy Doków, w porcie. Jest to też lokacja, gdzie postać zostanie przywrócona w razie gdyby się ktoś natknął na krytyczny błąd.
 
@@ -25,11 +25,11 @@ Później, postać zawsze jest tam, gdzie się ostatnio wylogowała, nawet po re
 
 Rok 1370 to dwa lata przed wydarzeniami które były opisane w podstawowej kampanii NWN.
 
-# Kanał MG
+## Kanał MG
 
 Jeśli w trakcie rozrywki potrzebna jest asysta Mistrza Gry, można bezpośrednio pisać na kanale MG w grze. Jest on połączony z Discordem, więc DMi dostaną wiadomość, nawet jeśli obecnie nie są zalogowani.
 
-# Narzędzia gracza
+## Narzędzia gracza
 
 Gracze mają dostępne specjalne narzędzia które pozwalają sprawdzić różne statystyki postaci, jak również wykonać dodatkowe akcje, np.: animacje czy rzuty kością.
 
